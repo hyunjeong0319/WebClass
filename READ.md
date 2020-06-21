@@ -1,3 +1,14 @@
-Hello world 
+Hello World
 
-JAVACRIPT Course
+JAVASCRIPT Course
+
+Next Semester Python
+
+Artificial Intelligence
+
+Python
+
+MATLAB 
+## Big Data
+60161895 이현정
+
